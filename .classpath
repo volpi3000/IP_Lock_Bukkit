@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/volpi_000/Downloads/bukkit-1.4.5-R0.3-20121207.060115-15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/volpi_000/Desktop/ipl/plugins/IPL/sqlite-jdbc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
